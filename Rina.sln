@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rina", "Rina\Rina.csproj", "{FFE9B80C-DAA0-4B13-AB83-EF62E6B6ED03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{F76754C6-9269-4F7A-98EF-95D6278B66E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFE9B80C-DAA0-4B13-AB83-EF62E6B6ED03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE9B80C-DAA0-4B13-AB83-EF62E6B6ED03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE9B80C-DAA0-4B13-AB83-EF62E6B6ED03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE9B80C-DAA0-4B13-AB83-EF62E6B6ED03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F76754C6-9269-4F7A-98EF-95D6278B66E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76754C6-9269-4F7A-98EF-95D6278B66E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76754C6-9269-4F7A-98EF-95D6278B66E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76754C6-9269-4F7A-98EF-95D6278B66E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
